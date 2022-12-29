@@ -4,7 +4,7 @@ justify-content:between
 ">
 
 <div>
-<img src="https://github.com/USsefRashed/USsefRashed/blob/main/template.png" width=200 style="border-radius:50%">
+<img src="https://github.com/USsefRashed/USsefRashed/blob/main/template.png"  style="border-radius:50%">
 </div>
 
 <div>
