@@ -10,7 +10,7 @@ justify-content:between
 <div>
 
 ```diff
-+ I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
+##+ I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
 ```
 
 - 🌱 I’m currently learning Deep dive on Angular, .Net Framework  
