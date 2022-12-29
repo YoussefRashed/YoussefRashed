@@ -1,3 +1,4 @@
+![](https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif)
 ![](https://github.com/USsefRashed/USsefRashed/blob/main/STRh.gif)
 
 ### <div align="center">I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀</div>  
