@@ -1,4 +1,4 @@
-<img src="https://github.com/USsefRashed/USsefRashed/blob/main/J4o.gif" style="width:783px;"/>
+<div align="center"><img src="https://github.com/USsefRashed/USsefRashed/blob/main/J4o.gif" style="width:900px;"/></div>
 
 ### <div align="center">I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀</div>  
   
