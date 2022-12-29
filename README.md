@@ -1,9 +1,17 @@
+<div style="display:flex; 
+flex-flow:row;
+justify-content:between
+">
+
 <div>
-<div align="right">
-  <img src="https://github.com/USsefRashed/USsefRashed/blob/main/STRh.gif" style="width:200px;"/>
-  </div>
-  ### <div align="left">I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
-  
+<img src="./STRh.gif" width=200 style="border-radius:50%">
+</div>
+
+<div>
+
+```diff
++ I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
+```
 
 - 🌱 I’m currently learning Deep dive on Angular, .Net Framework  
   
@@ -13,8 +21,7 @@
 
 - ⚡ Fun fact: Think before act  
 
-  </div>
-</div>
+
 
   
 
@@ -25,9 +32,14 @@
   
 
 <br/>  
+</div>
+</div>
+
+
 
 
 ## My Skill Set  
+-----
 <table><tr><td valign="top" width="33%">
 
 
@@ -91,6 +103,7 @@
 
 
 ## Connect with me  
+-----
 <div align="center">
 <a href="https://github.com/USsefRashed" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -108,13 +121,14 @@
 
 
 ## Github Stats  
+-----
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=USsefRashed&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 <br/>  
 
 
 ## Fav Music Type  
-
+-----
 
 <br/>  
 
@@ -129,5 +143,4 @@
 
 <br />
 
-----
 
