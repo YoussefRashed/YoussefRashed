@@ -1,11 +1,8 @@
-<div align="center">
+<div align="right">
   <img src="https://github.com/USsefRashed/USsefRashed/blob/main/STRh.gif" style="width:200px;"/>
-<img src="https://github.com/USsefRashed/USsefRashed/blob/main/STRh.gif" style="width:200px;"/>
-    <img src="https://github.com/USsefRashed/USsefRashed/blob/main/STRh.gif" style="width:200px;"/>
-<img src="https://github.com/USsefRashed/USsefRashed/blob/main/STRh.gif" style="width:200px;"/>
 </div>
 
-### <div align="center">I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀</div>  
+### <div align="left">I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀</div>  
   
 
 - 🌱 I’m currently learning Deep dive on Angular, .Net Framework  
