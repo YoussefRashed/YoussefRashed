@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?w=740&t=st=1672342926~exp=1672343526~hmac=86dbcac51994295bb85d2fe0416ddcfe4f4875f1110f977caf7986044dbf1054" width="100"/>
+<img src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?w=740&t=st=1672342926~exp=1672343526~hmac=86dbcac51994295bb85d2fe0416ddcfe4f4875f1110f977caf7986044dbf1054" style="width:100;"/>
 <h1 align="center">Hi 👋, I'm Yousef Rashed</h1>
 <h3 align="center">.NET Full-Stack Developer From Egypt</h3>
 
