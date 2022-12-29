@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/1lvotGQwhzi6O0gQtV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif"/>
 
 ### <div align="center">I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀</div>  
   
