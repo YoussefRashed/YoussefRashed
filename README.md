@@ -21,14 +21,6 @@ justify-content:between
 
 - ⚡ Fun fact: Think before act  
 
-
-
-  
-
-![]()  
-  
-
-![]()  
   
 
 <br/>  
