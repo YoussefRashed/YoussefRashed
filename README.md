@@ -10,7 +10,8 @@ justify-content:between
 <div>
 
 
-## I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
+## I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/USsefRashed" data-color-scheme="no-preference: dark; light: dark; dark: light;" data-size="large" aria-label="Follow @USsefRashed on GitHub">Follow @USsefRashed</a>
 
 
 - 🌱 I’m currently learning Deep dive on Angular, .Net Framework  
