@@ -136,9 +136,8 @@ justify-content:between
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/USsefRashed">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Yousef_Rashed47">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Yousef_Rashed47">
+		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
 
 </p>
