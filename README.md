@@ -116,7 +116,13 @@ justify-content:between
 
 ## Github Stats  
 -----
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=USsefRasjed)](https://git.io/streak-stats)
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=USsefRashed&theme=dark&hide_border=true&border_radius=4.6&currStreakNum=FFC700)](https://git.io/streak-stats)
+
+
+
 
 <br/>  
 
