@@ -12,7 +12,7 @@ justify-content:between
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=69ab37&size=30&lines=Simple+it+Fix+it...;Your+Time+is+your+real+wealth...;Think+Before+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=259eff&size=30&lines=Simple+it+Fix+it...;Your+Time+is+your+real+wealth...;Think+Before+Code)](https://git.io/typing-svg)
   
 
 ## I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
