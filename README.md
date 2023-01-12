@@ -124,7 +124,6 @@ justify-content:between
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=USsefRashed&theme=dark&show_icons=true)
 
 
 
