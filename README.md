@@ -116,7 +116,7 @@ justify-content:between
 
 ## Github Stats  
 -----
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=USsefRashed&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=USsefRasjed)](https://git.io/streak-stats)
 
 <br/>  
 
