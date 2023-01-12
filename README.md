@@ -8,9 +8,11 @@ justify-content:between
 </div>
 
 <div>
+<br/>
+<br/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=DDDDDD&size=30&lines=Programming+is+to+turn+caffiene+into+code;Your+Time+is+your+real+wealth...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=69ab37&size=30&lines=Programming+is+to+turn+caffiene+into+code;Your+Time+is+your+real+wealth...;)](https://git.io/typing-svg)
   
 
 ## I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
