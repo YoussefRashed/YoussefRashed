@@ -114,19 +114,19 @@ justify-content:between
 <br/>  
 
 
-## Github Stats  
+## Github Stats & :trophy: Git profile Trophies
 -----
 
-
+<table><tr><td valign="top" width="50%">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=USsefRashed&theme=dark&hide_border=true&border_radius=4.6&currStreakNum=FFC700)](https://git.io/streak-stats)
 
+</td>
 
 
-## :trophy: Git profile Trophies
-
+<td valign="top" width="50%">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=USsefRashed&layout=compact&theme=algolia" alt="Youaef" /></a> </p>
-
+</td></tr></table> 
 <br/>  
 
 
