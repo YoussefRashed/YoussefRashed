@@ -12,7 +12,7 @@ justify-content:between
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=69ab37&size=30&lines=Programming+is+to+turn+caffiene+into+code;Your+Time+is+your+real+wealth...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=69ab37&size=30&lines=Simple+it+Fix+it...;Your+Time+is+your+real+wealth...;Think+Before+Code)](https://git.io/typing-svg)
   
 
 ## I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
@@ -125,6 +125,29 @@ justify-content:between
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=USsefRashed&layout=compact&theme=algolia" alt="Youaef" /></a> </p>
 </td></tr></table> 
 <br/>  
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/YousefRashed/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/USsefRashed">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/users/16846447/j05547?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Yousef_Rashed47">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+      </div>
+
+</p>
+
+
+
 
 
 ## Connect with me  
