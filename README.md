@@ -10,6 +10,9 @@ justify-content:between
 <div>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Yousef+Rashed!;I'm+a+.NET+Developer...;I'm+also+Machine+Learning+Engineer;And+working+remotelysince+2020🇰)](https://git.io/typing-svg)
+  
+
 ## I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
   
 
@@ -94,26 +97,13 @@ justify-content:between
 </td></tr></table>  
 
 <br/>  
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/USsedRashed">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=USsefRashed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=USsefRashed&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </a>
 </p>
-
-## Connect with me  
------
-<div align="center">
-<a href="https://github.com/USsefRashed" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/YousefRashed" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Yousef Rashed" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
 
 <br/>  
@@ -135,14 +125,19 @@ justify-content:between
 <br/>  
 
 
-## Fav Music Type  
+## Connect with me  
 -----
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ck246rk4adxpymfpdwhb53bowm&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
-
-<br/>  
+<div align="center">
+<a href="https://github.com/USsefRashed" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/YousefRashed" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Yousef Rashed" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>   
 
   
 
