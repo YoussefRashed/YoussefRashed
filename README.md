@@ -10,7 +10,7 @@ justify-content:between
 <div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Yousef+Rashed!;I'm+a+.NET+Developer...;I'm+also+Machine+Learning+Engineer;And+working+remotelysince+2020🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=DDDDDD&size=30&lines=Programming+is+to+turn+caffiene+into+code;Your+Time+is+your+real+wealth...;)](https://git.io/typing-svg)
   
 
 ## I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
