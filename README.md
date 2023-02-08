@@ -12,10 +12,10 @@ justify-content:between
 <br/>
 <div align="center">
 
-	<svg href="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=259eff&size=30&lines=Simple+it...+Fix+it...;Think+Before+Code...">  
+	<img href="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=259eff&size=30&lines=Simple+it...+Fix+it...;Think+Before+Code...">  
 </div>
 	
-	[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=259eff&size=30&lines=Simple+it...+Fix+it...;Think+Before+Code...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=259eff&size=30&lines=Simple+it...+Fix+it...;Think+Before+Code...)](https://git.io/typing-svg)
 	
 	
 ## I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
