@@ -111,7 +111,7 @@ justify-content:between
 ## Github Stats & :trophy: Git profile Trophies
 -----
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=USsefRashed&theme=dark&hide_border=true&border_radius=4.6&currStreakNum=FFC700)](https://git.io/streak-stats)
 
