@@ -102,12 +102,7 @@ justify-content:between
 
 
 ### ⚙️&nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/USsedRashed">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=USsefRashed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-</a>
-</p>
   
 
 <br/>  
@@ -125,6 +120,12 @@ justify-content:between
 
 <td valign="top" width="50%">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=USsefRashed&layout=compact&theme=algolia" alt="Youaef" /></a> </p>
+	<p align="center">
+<a href="https://github.com/USsedRashed">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=USsefRashed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+</a>
+</p>
 </td></tr></table> 
 <br/>  
 
