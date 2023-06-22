@@ -4,7 +4,7 @@ justify-content:between
 ">
 
 <div>
-<img src="https://github.com/USsefRashed/USsefRashed/blob/main/template.png"  style="border-radius:50%">
+<img src="https://github.com/YoussefRashed/YoussefRashed/blob/main/template.png"  style="border-radius:50%">
 </div>
 
 <div>
@@ -108,16 +108,16 @@ justify-content:between
 
 <table><tr><td valign="center" width="50%">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=USsefRashed&theme=dark&hide_border=true&border_radius=4.6&currStreakNum=FFC700)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YoussefRashed&theme=dark&hide_border=true&border_radius=4.6&currStreakNum=FFC700)](https://git.io/streak-stats)
 
 </td>
 
 
 <td valign="top" width="50%">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=USsefRashed&layout=compact&theme=algolia" alt="Youaef" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YoussefRashed&layout=compact&theme=algolia" alt="Youaef" /></a> </p>
 	<p align="center">
 <a href="https://github.com/USsedRashed">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=USsefRashed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YoussefRashed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </a>
 </p>
@@ -132,7 +132,7 @@ justify-content:between
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yousef-rashed-049795232//">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/USsefRashed">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/YoussefRashed">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Yousef_Rashed47">
 		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
