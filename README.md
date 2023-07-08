@@ -8,7 +8,7 @@
 <br/>
 
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=2ea04366&size=30&lines=Simple+it...+Fix+it...;Think+Before+Coding...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Simple+it...+Fix+it...;Think+Before+Coding...)](https://git.io/typing-svg)
 	
 	
 ## I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
