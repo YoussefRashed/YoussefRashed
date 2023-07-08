@@ -1,13 +1,9 @@
-<div style="display:flex; 
-flex-flow:row;
-justify-content:between
-">
-
-<div>
-<img src="https://github.com/YoussefRashed/YoussefRashed/blob/main/template.png"  style="border-radius:50%">
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
-<div>
 <br/>
 <br/>
 
@@ -144,10 +140,6 @@ justify-content:between
 <br/>  
 
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
