@@ -112,7 +112,7 @@
 <td valign="top" width="50%">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YoussefRashed&layout=compact&theme=algolia" alt="Youaef" /></a> </p>
 	<p align="center">
-<a href="https://github.com/USsedRashed">
+<a href="https://github.com/YoussefRashed">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YoussefRashed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </a>
