@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://yousefrashed.netlify.app">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -8,7 +8,7 @@
 <br/>
 
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Data+Analyst+...;Full-Stack+Developer+...+Software+Engineer...;)](https://github.com/YoussefRashed)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Data+Analyst+...;Full-Stack+Developer+...+Software+Engineer...;)](https://yousefrashed.netlify.app)
 	
 	
 ## I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
