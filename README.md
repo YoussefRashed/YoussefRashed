@@ -96,25 +96,26 @@
 
 <br/>
 
-<div>
-<div align="right">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> My Social </h3>
+
+<p align="center">
+
+<div align="center">
+ <a target="_blank" href="https://www.linkedin.com/in/yousef-rashed-049795232/">	 
+ <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+ </a>
+	
+ <a target="_blank" href="https://twitter.com/Yousef_Rashed47">	
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+ </a>
 </div>
-
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> My Social </h3>
-
-<p align="left">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yousef-rashed-049795232//">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Yousef_Rashed47">
-		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-      </div>
 
 </p>
 
-</div>
+
 
 
 
@@ -145,6 +146,14 @@
   
 
 <br/>  
+
+
+
+
+
+
+
+
 
 
 
