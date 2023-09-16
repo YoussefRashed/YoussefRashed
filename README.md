@@ -133,15 +133,7 @@
   <img src="https://streak-stats.demolab.com?user=YoussefRashed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<h3 align="center">Profile Views
-</h3>
 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YoussefRashed/count.svg?"  />
-</div>
-
-###
 
   
 
