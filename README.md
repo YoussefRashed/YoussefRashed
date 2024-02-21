@@ -1,9 +1,5 @@
-<div align="center">
-	
-  <a href="https://yousefrashed.netlify.app">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![Snake animation](https://github.com/YoussefRashed/YoussefRashed/blob/output/github-contribution-grid-snake.svg)
+
 
 <br/>
 <br/>
