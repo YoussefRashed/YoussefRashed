@@ -1,4 +1,5 @@
 <div align="center">
+	
   <a href="https://yousefrashed.netlify.app">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
@@ -8,7 +9,7 @@
 <br/>
 
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Data+Analyst+...;Full-Stack+Developer+...+Software+Engineer...;)](https://yousefrashed.netlify.app)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=00f&size=30&lines=Data+Analyst+...;Full-Stack+Developer+...+Software+Engineer...;)](https://yousefrashed.netlify.app)
 	
 	
 ## I'm Yousef Rashed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020🚀  
@@ -128,11 +129,19 @@
 
 <h3 align="center">🔥   My Stats :</h3>
 
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YoussefRashed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://github.com/YoussefRashed/YoussefRashed/assets/88270964/22232db8-2427-44b0-8048-1d2bd21a6e61"  height="25%" width="25%"/>
+	  <img height="auto" width="30%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefRashed&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=YoussefRashed&theme=darcula&hide_border=true&background=FFFFFF00" width="30%">
 </div>
+<p align="center">
 
+	
+
+  <br>
+  <br>
+
+</p>
 
 
   
@@ -144,10 +153,9 @@
 
 
 
-
-
-
-
+<div align="center">
+<img  src="https://github.com/YoussefRashed/YoussefRashed/assets/88270964/9298a761-c88a-429e-851c-b3c7595e3ee2" width="70%" height="85%" />
+</div>
 
 
 
